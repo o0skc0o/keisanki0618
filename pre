@@ -1,6 +1,6 @@
 print("整数を入力してください")
 i = int(input())
 if i%3 == 0 :
-  print("3の倍数です")
+  print("3の倍数なのだ")
 else:
-  print("3の倍数ではありません")
+  print("3の倍数ではないのだ")
